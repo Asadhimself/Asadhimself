@@ -40,6 +40,3 @@
   <img src="https://skillicons.dev/icons?i=python,postgresql,fastapi,django,git,docker,aws,html,css,vscode,linux" /><br>
 </div>
 
-###
-
-[![Asad's GitHub stats](https://github-readme-stats.vercel.app/api?username=asadhimself)](https://github.com/asadhimself/github-readme-stats)
