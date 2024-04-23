@@ -15,12 +15,6 @@
 
 ###
 
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=filimonovalexey.filimonovalexey&"  />
-</div>
-
-###
-
 <h3 align="left">👩‍💻  Обо мне</h3>
 
 ###
@@ -32,7 +26,8 @@
 ###
 
 <p align="center">
- <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/asadhimself/asadhimself/output/github-contribution-grid-snake.svg" />
+<img src="https://github.com/Asadhimself/Asadhimself/blob/output/github-contribution-grid-snake.gif" />
+
 </p>
 
 ###
