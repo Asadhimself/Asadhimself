@@ -37,6 +37,12 @@
 ###
 
 <div align="left">
+  <b>Языки Программирования</b>: Python, SQL (Postgres), HTML/CSS <br>
+  <b>Фреймворки</b>: Django, Django-rest-framework, FastAPI, Aiogram <br>
+  <b>Инструменты</b>: Git, Docker, AWS EC3, VS Code, PyCharm, Linux <br>
+  <b>Библиотеки</b>: requests, BeautifulSoup4 <br>
+  <br>
   <img src="https://skillicons.dev/icons?i=python,postgresql,fastapi,django,git,docker,aws,html,css,vscode,linux" /><br>
 </div>
+
 
