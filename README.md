@@ -44,5 +44,20 @@
   <br>
   <img src="https://skillicons.dev/icons?i=python,postgresql,fastapi,django,git,docker,aws,html,css,vscode,linux" /><br>
 </div>
+<br>
 
 
+###
+
+<h3 align="left">🏆 Обучение:</h3>
+
+###
+
+
+<b>Все курсы серии "Поколение Python"</b> <br>
+<b>Курс Backend Разработчик на Python от SOS IT Academy</b> <br> 
+<b>Статистика на <a href="stepik.org">Stepik</a></b> <br>
+<img src="https://github.com/Asadhimself/Asadhimself/assets/108661259/7377c8a6-523a-44c3-b6f7-ea6a3161f5c1" style="width: 30%; height: 30%"/>
+<br>
+<b>Множество задач на LeetCode</b> <br> 
+<b>🎯 Скоро будет статистика из LeetCode и CodeWars</b>
